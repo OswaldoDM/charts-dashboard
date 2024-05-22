@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: 'https://github.com/OswaldoDM/charts-dashboard.git'  
+  base: 'https://oswaldodm.github.io/charts-dashboard/'  
  })
